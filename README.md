@@ -10,7 +10,7 @@ Proyek ini adalah sebuah script Python yang secara otomatis menambahkan nama pes
 - Menyimpan sertifikat yang sudah diproses sebagai file PDF dalam folder `hasil`.
 
 ## Prasyarat
-Pastikan Anda telah menginstall Python serta library yang diperlukan sebelum menjalankan script ini:
+Pastikan Anda telah menginstall Python 3.8 atau versi latest, serta library yang diperlukan sebelum menjalankan script ini:
 
 ### Instalasi Library
 1. **PIL** (Python Imaging Library):
